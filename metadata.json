@@ -1,0 +1,7 @@
+{
+  "name": "JurisPro",
+  "description": "Premium AI-powered legal assistant created by RONY. Features multi-personality legal reasoning, document analysis, and bilingual support (Bangla/English).",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
